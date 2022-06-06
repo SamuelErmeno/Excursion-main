@@ -1,0 +1,52 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+   }
+   .header--main {
+     font-family: normal;
+     font-size: 50px;
+     color:#ffffff;
+
+   }
+
+   .header--second {
+       font-weight: 300;
+       color:#ffffff;
+       font-size: 42px;
+
+   }
+
+   .header--subsecond {
+    font-weight: 300;
+    color:gray;
+    font-size: 21px;
+   }
+
+   .link--cta {
+     font-size: 16px;
+     color: aquamarine;
+   }
+
+
+.footer--copyright {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+    
+}
+.imagec {
+  display: block;
+  width: 600px;
+  height: max;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.imagep {
+  display: block;
+  width: 600px;
+  height: max;
+  overflow: hidden;
+  margin: 0 auto;
+}
